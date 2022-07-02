@@ -168,5 +168,6 @@
     "stylus": "^0.56.0",
     "stylus-loader": "^6.2.0",
     "webpack-glsl-loader": "^1.0.1"
-  }
+  },
+  "packageManager": "yarn@3.2.1"
 }
